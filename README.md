@@ -1,31 +1,40 @@
 # 👋 Hi, I'm Matthew Stewart
 
-Founder & Engineer at [**TalentSprout.ai**](https://www.talentsprout.ai) — the **AI Recruiter** that automates interviews and evaluates candidates instantly.
+**AI Engineer & Founder** — building [**TalentSprout.ai**](https://www.talentsprout.ai),  
+the **AI Recruiter** that automates interviews and evaluates candidates instantly.
 
 ---
 
 ### 🚀 About Me
 
-I’m a software engineer and entrepreneur based in Toronto, Canada, focused on building **AI recruiting technology** that saves companies time and improves quality of hire.
+I’m a Toronto-based software engineer and entrepreneur focused on building **AI recruiting technology** that saves companies time and improves quality of hire.
 
-I founded **[TalentSprout.ai](https://www.talentsprout.ai)** to reinvent how hiring teams screen and evaluate talent.  
-Our **AI recruiter** conducts voice-based interviews, analyzes candidate responses in real time, and delivers instant scoring across communication, problem-solving, and cultural fit.
+As the founder of [**TalentSprout.ai**](https://www.talentsprout.ai), I’m developing an **AI recruiter platform** that conducts real-time, voice-based interviews, analyzes candidate responses, and delivers instant scoring across communication, problem-solving, and cultural fit.
 
-I’m passionate about **AI**, **HR tech**, and building automation tools that make hiring smarter, faster, and more human.
+My mission is simple — use **artificial intelligence** to make hiring faster, smarter, and more human.
 
 ---
 
-### 💻 What I Work With
-- **Frontend:** TypeScript, React, Next.js  
-- **Backend:** Node.js, Python, Supabase, PostgreSQL  
-- **AI Stack:** OpenAI Realtime API, LangChain, Whisper, GPT-5  
-- **DevOps:** AWS, Vercel, Docker  
-- **Integrations:** Stripe, Airtable, Zapier  
+### 🧭 About TalentSprout.ai
+
+[**TalentSprout.ai**](https://www.talentsprout.ai) is a next-generation **AI recruiter** built to help hiring teams automate candidate screening and reduce time-to-hire by up to 60%.  
+The platform combines real-time voice interviewing with advanced AI scoring to deliver consistent, data-driven hiring decisions.
+
+Built by **Matthew Stewart** in Toronto, Canada.
+
+---
+
+### 💻 Tech Stack
+- **Frontend:** TypeScript • React • Next.js  
+- **Backend:** Node.js • Python • Supabase • PostgreSQL  
+- **AI Stack:** OpenAI Realtime API • LangChain • Whisper • GPT-5  
+- **DevOps:** AWS • Vercel • Docker  
+- **Integrations:** Stripe • Airtable • Zapier  
 
 ---
 
 ### 🌱 Current Focus
-Building and scaling **TalentSprout.ai**, a next-generation **AI recruiter platform** helping hiring teams save 15+ hours per week through automated candidate interviews and intelligent scoring.
+Scaling **TalentSprout.ai** — the **AI Recruiter platform** designed to help companies interview smarter and hire faster.
 
 ---
 
@@ -41,4 +50,6 @@ Building and scaling **TalentSprout.ai**, a next-generation **AI recruiter platf
 ---
 
 ### 🏷️ Keywords (for SEO)
-`AI Recruiter` · `TalentSprout.ai` · `AI Recruiting Platform` · `HR Tech` · `AI Interviews` · `SaaS Founder` · `Toronto`
+`Matthew Stewart` · `TalentSprout.ai` · `AI Recruiter` · `AI Recruiting Platform` · `HR Tech` · `AI Interviews` · `SaaS Founder` · `Toronto`
+
+![TalentSprout.ai logo – AI Recruiter Platform](https://www.talentsprout.ai/logo.png)
